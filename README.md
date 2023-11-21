@@ -16,10 +16,9 @@ The dataset used in this project is sourced from Kaggle, and it provides compreh
 - **Libraries**: Pandas for data manipulation, Matplotlib and Seaborn for data visualization.
 - **Tableau**: For creating an interactive dashboard to visualize the findings.
 
-## Key Insights
-- Analysis of bike usage trends over time.
-- Impact of weather conditions on bike sharing.
-- Interactive visualizations of data, including heatmaps and trend charts.
+## Tableau Dashboard
+Explore my interactive Tableau dashboard for a deeper visual dive into the London Bike Sharing data analysis:
+[Dynamic Insights into London's Bike Sharing on Tableau Public](https://public.tableau.com/app/profile/sebastian2609/viz/DynamicInsightsintoLondonsBikeSharing/Dashboard1)
 
 ## How to Use
 1. Clone the repository to your local machine.
